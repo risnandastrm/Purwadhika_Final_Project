@@ -29,6 +29,9 @@ Dataset dapat diambil pada link: https://www.kaggle.com/datasets/adityadesai13/u
 
 ## EDA OVERVIEW
 
+### Dashboard Overview Using Tableau
+![alt text](https://github.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject/blob/main/Picture/overview.png?raw=true)  
+
 ![alt text](https://github.com/risnandastrm/Purwadhika_Final_Project/blob/main/Picture/price%20dist.png?raw=true)    
 Distribusi harga mobil cenderung berdistribusi right skewed. Artinya tidak banyak mobil yang memiliki harga yang tinggi dan mayoritas data berada pada harga €10000-21000.
 
